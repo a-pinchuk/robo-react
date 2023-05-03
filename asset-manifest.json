@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/robo-react/static/css/main.74e68d96.css",
+    "main.js": "/robo-react/static/js/main.2caa3b81.js",
+    "index.html": "/robo-react/index.html",
+    "main.74e68d96.css.map": "/robo-react/static/css/main.74e68d96.css.map",
+    "main.2caa3b81.js.map": "/robo-react/static/js/main.2caa3b81.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.74e68d96.css",
+    "static/js/main.2caa3b81.js"
+  ]
+}
