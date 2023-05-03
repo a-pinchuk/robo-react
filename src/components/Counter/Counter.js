@@ -12,7 +12,7 @@ const Counter = () => {
   };
 
   return (
-    <div>
+    <div style={{ marginTop: '25px' }}>
       <p>Текущий счет: {count}</p>
       <button onClick={increase}>Увеличить</button>
       <button onClick={decrease}>Уменьшить</button>

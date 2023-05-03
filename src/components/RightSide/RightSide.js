@@ -1,4 +1,5 @@
 import React from 'react';
+import Experience from '../Experience/Experience';
 
 const RightSide = () => {
   return (
@@ -46,34 +47,10 @@ const RightSide = () => {
           Experience
         </div>
         <div className="resume_info">
-          <div className="resume_data">
-            <div className="year">2017 - 2022</div>
-            <div className="content">
-              <p>
-                <a href="https://zabobon.com.ua" target="_blank" rel="noreferrer">
-                  <b>Zabobon shop</b>
-                </a>
-              </p>
-              <p>Project/Role description: cooperated with Rozetka, Allo, epicentr</p>
-            </div>
-          </div>
-          <div className="resume_data">
-            <div className="year">2018 - 2023</div>
-
-            <div className="content">
-              <p>
-                <a href="https://pulthouse.com.ua" target="_blank" rel="noreferrer">
-                  <b>Pulthouse</b>
-                </a>
-              </p>
-              <p>
-                Project/Role description: complete a lot of complicated workwith import remote
-                controllers
-              </p>
-            </div>
-          </div>
+          <Experience />
         </div>
       </div>
+
       <div className="resume_item resmue_interests">
         <div className="resume_title__letter" data-letter="I">
           Interests
