@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/robo-react/static/css/main.74e68d96.css",
-    "main.js": "/robo-react/static/js/main.da803701.js",
+    "main.js": "/robo-react/static/js/main.a43b24bc.js",
     "index.html": "/robo-react/index.html",
     "main.74e68d96.css.map": "/robo-react/static/css/main.74e68d96.css.map",
-    "main.da803701.js.map": "/robo-react/static/js/main.da803701.js.map"
+    "main.a43b24bc.js.map": "/robo-react/static/js/main.a43b24bc.js.map"
   },
   "entrypoints": [
     "static/css/main.74e68d96.css",
-    "static/js/main.da803701.js"
+    "static/js/main.a43b24bc.js"
   ]
 }
