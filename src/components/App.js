@@ -5,10 +5,11 @@ import RightSide from './RightSide/RightSide';
 import './App.css';
 
 const App = () => {
-  const imagePath = '/img/photo_car.jpg';
+  const imagePath = process.env.PUBLIC_URL + '/img/photo_car.jpg';
 
   useEffect(() => {
-    const token = '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';
+    const token =
+      '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';
     const username = 'a-pinchuk';
     const gitHubAPI = new GitHubAPI(token, username);
 
