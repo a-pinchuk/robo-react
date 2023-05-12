@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/quiz/static/css/main.74e68d96.css",
-    "main.js": "/quiz/static/js/main.64fac5dc.js",
-    "index.html": "/quiz/index.html",
-    "main.74e68d96.css.map": "/quiz/static/css/main.74e68d96.css.map",
-    "main.64fac5dc.js.map": "/quiz/static/js/main.64fac5dc.js.map"
+    "main.css": "/robo-react/static/css/main.74e68d96.css",
+    "main.js": "/robo-react/static/js/main.52b7f20a.js",
+    "index.html": "/robo-react/index.html",
+    "main.74e68d96.css.map": "/robo-react/static/css/main.74e68d96.css.map",
+    "main.52b7f20a.js.map": "/robo-react/static/js/main.52b7f20a.js.map"
   },
   "entrypoints": [
     "static/css/main.74e68d96.css",
-    "static/js/main.64fac5dc.js"
+    "static/js/main.52b7f20a.js"
   ]
 }
