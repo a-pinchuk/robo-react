@@ -1,5 +1,6 @@
 import React from 'react';
 import Experience from '../Experience/Experience';
+import Repos from '../Repos/Repos';
 
 const RightSide = () => {
   return (
@@ -82,12 +83,7 @@ const RightSide = () => {
           </div>
         </div>
       </div>
-      <div className="projects resume_item">
-        <div className="resume_title__letter" data-letter="P">
-          My Projects
-        </div>
-        <ul className="projects_list"></ul>
-      </div>
+      <Repos />
     </div>
   );
 };
